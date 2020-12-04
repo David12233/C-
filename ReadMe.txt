@@ -28,6 +28,7 @@ StdAfx.h, StdAfx.cpp
 应用程序向导使用“TODO:”注释来指示应添加或自定义的源代码部分。
 
 主要是在原作者的基础上对该设计做了尽可能详尽的注释。
+若是仅运行玩游戏娱乐需要下载 image文件夹和date12-1.exe两者放在同一文件夹下即可。
 
 原作者链接：https://github.com/lzh12139/cpp-big-homework
 
